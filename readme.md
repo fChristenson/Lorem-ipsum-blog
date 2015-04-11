@@ -1,0 +1,4 @@
+
+# Blog
+
+Playing with wintersmith
